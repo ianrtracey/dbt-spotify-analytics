@@ -1,4 +1,4 @@
-USERNAME = "username"
-CLIENT_ID = "client_id"
-CLIENT_SECRET = "client_secret"
+USERNAME = "126545705"
+CLIENT_ID = "a9b4739e02ab461897eb08c6ce19a997"
+CLIENT_SECRET = "c01ae74d92eb4674be9a09eea6808c24"
 REDIRECT_URI = "http://localhost:8888/callback/"
