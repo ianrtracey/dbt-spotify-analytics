@@ -42,10 +42,10 @@ models:
   - name: dim_artists
     columns:
       - name: artist_id
-        description: Unique identifier for an artist
+        description: Unique identifier for an a
         tests:
           - not_null
-          - unique
+          # - unique
       - name: artist_name
         description: Name of artist/artists
         tests:

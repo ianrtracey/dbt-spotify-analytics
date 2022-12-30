@@ -37,3 +37,15 @@ models:
       - name: artist_id
         tests:
           - not_null
+  
+  - name: stg_playlist_items
+    columns:
+      - name: playlist_id
+        tests:
+          - not_null
+      - name: track_id
+        tests:
+          - not_null
+      - name: artist_id
+        tests:
+          - not_null
