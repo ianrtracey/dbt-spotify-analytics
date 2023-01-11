@@ -1,5 +1,5 @@
 from util import SpotifyUtil
-import config
+import config_template as config
 import os
 
 ITEM_LIMIT = 50
