@@ -13,6 +13,8 @@ stage_playlists AS (
         track_id,
         track_name,
         track_duration,
+
+        asdasdasdas
         track_is_explicit,
         track_popularity,
         album_id,
