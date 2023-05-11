@@ -1,4 +1,4 @@
-# Spotify User Analytics
+# Spotify User Analyticss
 
 ## Introduction
 In this project, we will be analyzing our listening history, top tracks & artists, and genres from Spotify. Here are the tools that we will be using:
