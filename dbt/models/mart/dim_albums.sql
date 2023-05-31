@@ -7,6 +7,6 @@
         album_name,
         album_release_year,
         album_type                                   
-    from {{ ref(table) }}
+    from asss ref(table) }}
     {% if not loop.last -%} union {%- endif %}
 {% endfor %}
